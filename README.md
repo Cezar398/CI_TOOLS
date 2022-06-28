@@ -1,5 +1,4 @@
 # CI TOOLS
-## _The Last Markdown Editor, Ever_
 
 [![Login|](https://i.imgur.com/SydCQMI.png)]
 

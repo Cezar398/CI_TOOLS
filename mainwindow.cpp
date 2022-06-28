@@ -10,11 +10,11 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
 
-    QString name = qgetenv("USER");
+   /* QString name = qgetenv("USER");
         if (name.isEmpty())
             name = qgetenv("USERNAME");
 
-    ui->PC_NAME->setText(name);
+    ui->PC_NAME->setText(name);*/
 }
 
 MainWindow::~MainWindow()

@@ -5,9 +5,9 @@ CI Tools is a software program that has tools for managing your personal compute
 ## Features v1.1
 
 - Has a login system
-![Login|](https://i.imgur.com/iYdppZZ.png) 
+- ![Login|](https://i.imgur.com/iYdppZZ.png) 
 - Welcome page 
-![Welcome|](https://i.imgur.com/qXpL2yb.png)
+- ![Welcome|](https://i.imgur.com/qXpL2yb.png)
 
 ## Tech
 
